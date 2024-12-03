@@ -46,6 +46,15 @@ newgrp docker
 git clone https://github.com/AztecProtocol/aztec-packages && cd aztec-packages
 ```
 
+#### IP adresi - Private Key - Node Portu - P2P Portunun Ayarlanması - Yeni Bir Cüzdan Oluşturun : 
+
+```bash
+export PUBLIC_IP=your_public_ip_address
+export VALIDATOR_PKEY=your_validator_private_key
+export NODE_PORT=8080
+export P2P_PORT=40400
+```
+
 #### Validatör için Dizin : 
 
 ```bash
