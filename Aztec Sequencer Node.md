@@ -72,3 +72,25 @@ cp ../spartan/releases/rough-rhino/validator.sh .
 ```bash
 ./validator.sh
 ```
+
+#### Bu komut sonrasında docker üzerinden imageleri indirip containerleri başlatacaktır. 
+
+#### Loglara Bakmak için  : 
+
+```bash
+docker ps -a 
+```
+
+![image](https://github.com/user-attachments/assets/7d65cecc-ae3e-4527-b482-9ddde45cb35d)
+
+###### İmleç ile gösterdiğin kısım id'niz olacaktır. Alttaki "id" kısmına "id"nizi yazın.
+
+```bash
+docker logs -f id -n 150 
+```
+
+#### Bununla birlikte son 150 log'u görebilirsiniz. 
+
+
+
+
