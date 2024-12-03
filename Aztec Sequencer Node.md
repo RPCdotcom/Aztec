@@ -94,4 +94,4 @@ docker logs -f id -n 150
 
 ### Discord : https://discord.gg/m4h5Ycjn
 
-
+- Discordlarında Sequencer ve Prover Kanalına - adminlere cüzdan adresinizi atarak eklemelerini istemeniz gerekiyor.
