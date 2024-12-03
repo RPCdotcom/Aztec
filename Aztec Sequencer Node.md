@@ -65,3 +65,9 @@ cd val1
 ```bash
 cp ../spartan/releases/rough-rhino/validator.sh .
 ```
+
+#### Validator Dosyasını Çalıştıralım : 
+
+```bash
+./validator.sh
+```
