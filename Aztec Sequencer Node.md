@@ -1,5 +1,6 @@
 ![Gd47gCrWQAAPHax](https://github.com/user-attachments/assets/749896b6-e519-4a5a-924a-153f74bb0ea7)
 
+Thanks For information  : https://x.com/codeesura - Bilgilendirme için Teşekkürler : https://x.com/codeesura
 
 ##  Aztec Sequencer Node Kurulum : 
 
