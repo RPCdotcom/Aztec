@@ -92,6 +92,6 @@ docker logs -f id -n 150
 
 #### Bununla birlikte son 150 log'u görebilirsiniz. 
 
-### Discord : https://discord.gg/m4h5Ycjn
+### Discord : https://discord.com/invite/DgWG2DBMyB
 
 - Discordlarında Sequencer ve Prover Kanalına - adminlere cüzdan adresinizi atarak eklemelerini istemeniz gerekiyor.
