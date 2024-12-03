@@ -92,6 +92,6 @@ docker logs -f id -n 150
 
 #### Bununla birlikte son 150 log'u görebilirsiniz. 
 
-
+### Discord : https://discord.gg/m4h5Ycjn
 
 
