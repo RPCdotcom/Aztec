@@ -6,9 +6,10 @@ Thanks For information  : https://x.com/codeesura - Bilgilendirme için Teşekk�
 
 #### Gereksinimler : 
 - Ubuntu 24
-- 4 CPU
-- 8 RAM 
-- 200 Disk
+- 8 CPU
+- 32 RAM 
+- 2000 Disk - PCLE GEN 4 
+- Hız : 250 Mbps 
 
 
 #### Güncelleme : 
