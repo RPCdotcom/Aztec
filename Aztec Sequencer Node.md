@@ -65,13 +65,13 @@ cd val1
 ```
 
 ```bash
-cp ../spartan/releases/rough-rhino/aztec-spartan.sh .
+cp ../spartan/releases/rough-rhino/validator.sh .
 ```
 
 #### Validator Dosyasını Çalıştıralım : 
 
 ```bash
-./aztec-spartan.sh
+./validator.sh
 ```
 
 #### Bu komut sonrasında docker üzerinden imageleri indirip containerleri başlatacaktır. 
