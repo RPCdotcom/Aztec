@@ -73,6 +73,7 @@ cp ../spartan/releases/rough-rhino/aztec-spartan.sh .
 - P2P PORT : 40400
 - Node Port  : 8080
 - Cüzdan Private Key'i : 
+- İp Adresi 
 - Y
 
 ## Başlatalım : 
