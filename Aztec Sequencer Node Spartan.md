@@ -48,15 +48,6 @@ newgrp docker
 git clone https://github.com/AztecProtocol/aztec-packages && cd aztec-packages
 ```
 
-#### IP adresi - Private Key - Node Portu - P2P Portunun Ayarlanması - Yeni Bir Cüzdan Oluşturun : 
-
-```bash
-export PUBLIC_IP=your_public_ip_address
-export VALIDATOR_PKEY=your_validator_private_key
-export NODE_PORT=8080
-export P2P_PORT=40400
-```
-
 #### Validatör için Dizin : 
 
 ```bash
@@ -68,13 +59,30 @@ cd val1
 cp ../spartan/releases/rough-rhino/aztec-spartan.sh .
 ```
 
-#### Validator Dosyasını Çalıştıralım : 
+#### Validator Dosyasının Konfigirasyonunu yapalım : 
 
 ```bash
-./aztec-spartan.sh
+./aztec-spartan.sh config
 ```
 
-#### Bu komut sonrasında docker üzerinden imageleri indirip containerleri başlatacaktır. 
+#### Burada konfigürasyonu yapacaksınız. 
+
+![image](https://github.com/user-attachments/assets/dfe62fd4-6fff-4282-8581-53b04c5ac346)
+
+##### Sırası ile Sizden : 
+- P2P PORT : 40400
+- Node Port  : 8080
+- Cüzdan Private Key'i : 
+- Y
+
+## Başlatalım : 
+
+```bash
+./aztec-spartan.sh start
+```
+
+![image](https://github.com/user-attachments/assets/38653d66-6dd1-49ec-a805-a2301eebdbb2)
+
 
 #### Loglara Bakmak için  : 
 
